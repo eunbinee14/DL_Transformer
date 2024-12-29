@@ -12,6 +12,10 @@
 - Numpy version : 1.22.0
 
 <br/><br/>
+## 2. pipeline
+![스크린샷 2024-12-30 002905](https://github.com/user-attachments/assets/42351713-29b7-497e-baea-4961430eba1a)
+
+<br/><br/>
 
 ## 2. logic
 ### 2.1 tokenizer
