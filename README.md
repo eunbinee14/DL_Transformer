@@ -5,16 +5,16 @@
 <br/><br/>
 
 ## 1. Development Environment Assign
-Python version: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)] 
-PyTorch version: 1.8.1+cpu 
-TorchText version: 0.9.1 
-CUDA version: 11.8
-Numpy version : 1.22.0
+- Python version: 3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)] 
+- PyTorch version: 1.8.1+cpu 
+- TorchText version: 0.9.1 
+- CUDA version: 11.8
+- Numpy version : 1.22.0
 
 <br/><br/>
 
 ## 2. logic
-# 2.1 Util
+### 2.1 Util
 2.1.1 tokenizer
 
 import spacy
