@@ -14,8 +14,7 @@
 <br/><br/>
 
 ## 2. logic
-### 2.1 Util
-### 2.1.1 tokenizer
+### 2.1 tokenizer
 
 import spacy
 
