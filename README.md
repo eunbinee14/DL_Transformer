@@ -1,6 +1,6 @@
 # DL_Transformer
 
-- 2024년 4학년 2학기 딥러닝 기반 데이터 분석 Transformer 아카이빙 레포지토리입니다.
+- Transformer operation
 
 <br/><br/>
 
