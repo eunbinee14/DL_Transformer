@@ -38,6 +38,7 @@ class Tokenizer:
         return [tok.text for tok in self.spacy_en.tokenizer(text)]
 ```
 
+
 <br/><br/>
 ### 2.1.2 data loader
 
