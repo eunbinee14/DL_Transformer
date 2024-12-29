@@ -16,6 +16,7 @@
 ## 2. logic
 ### 2.1 tokenizer
 
+```
 import spacy
 
 class Tokenizer:
@@ -35,15 +36,13 @@ class Tokenizer:
         Tokenizes English text from a string into a list of strings
         """
         return [tok.text for tok in self.spacy_en.tokenizer(text)]
+```
 
 <br/><br/>
 ### 2.1.2 data loader
 
-# from torchtext.data import Field, BucketIterator
 from torchtext.legacy.data import Field, BucketIterator
-# from torchtext.datasets import Multi30k
 from torchtext.legacy.datasets import Multi30k
-
 
 class DataLoader:
     source: Field = None
