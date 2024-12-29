@@ -57,4 +57,9 @@
     - hidden을 d_model로
 
 ### 3.7 transformer
-- Encoder와 Decoder를 통합한 모델의 전체 구조 를 구현
+- Encoder와 Decoder를 통합한 모델의 전체 구조를 구현
+
+
+<br/><br/>
+## 4. Reference
+https://github.com/gusdnd852
