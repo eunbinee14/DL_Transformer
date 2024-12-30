@@ -61,5 +61,17 @@
 
 
 <br/><br/>
-## 4. Reference
+## 4. Output
+Epoch: 1 | Time: 155m 31s
+Train Loss: 6.750 | Train PPL: 854.019
+Val Loss: 5.975 |  Val PPL: 393.638
+BLEU Score: 0.000
+
+---
+
+step : 99.12 % , loss : 6.248012542724609
+step : 99.56 % , loss : 6.094691753387451
+
+<br/><br/>
+## 5. Reference
 source code : https://github.com/gusdnd852
