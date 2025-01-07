@@ -1,6 +1,9 @@
 # DL_Transformer
 
 - Transformer operation
+- 프로젝트 기간
+
+      > 2024.11.25 ~ 2024.11.30
 
 <br/><br/>
 
